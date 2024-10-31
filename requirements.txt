@@ -1,0 +1,10 @@
+pandas
+numpy
+requests
+beautifulsoup4
+sqlite3
+matplotlib
+seaborn
+folium
+scikit-learn
+jupyter
